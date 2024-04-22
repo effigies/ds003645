@@ -27,5 +27,5 @@
  "HeadCoilCoordinateUnits": "mm",
  "HeadCoilCoordinateSystemDescription": "5 HPI coils used",
  "AnatomicalLandmarkCoordinateSystemDescription": "For images of anatomical landmarks, see http://imaging.mrc-cbu.cam.ac.uk/meg/SubjectPreparation",
- "FiducialsDescription": "For images of anatomical landmarks, see http://imaging.mrc-cbu.cam.ac.uk/meg/SubjectPreparation",
+ "FiducialsDescription": "For images of anatomical landmarks, see http://imaging.mrc-cbu.cam.ac.uk/meg/SubjectPreparation"
 }
